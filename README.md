@@ -1,5 +1,4 @@
-title at the top
+Project Euler
 ===
-git push -u origin master
 
-link to project euler page: https://projecteuler.net/archives
+The greatest project ever known to mankind can be found on the [Project Euler Page](https://projecteuler.net/archives). 
